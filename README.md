@@ -27,7 +27,6 @@
 ## :clipboard: Como Executar o Projeto
 
 1. Clone o repositório.
-
 2. navegar ate a pasta do back-end:
     ```bash
       cd back-end
@@ -36,9 +35,7 @@
    ```bash
       npm install
 5. Criar a pasta .env
-6. 
 7. Definir as Variaveis de ambiente que são pedidas
-8. 
 9. Rode o servidor:
    ```bash
      npm run dev
@@ -48,7 +45,6 @@
       cd seuFuturoApp-main
     
 11. npm install
-12. 
 13. npx expo start    
     
 ## :rocket: Tecnologias Utilizadas
