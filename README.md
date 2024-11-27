@@ -16,21 +16,37 @@
 ### Tela 1: Inserção das Informações
 <img src="https://github.com/user-attachments/assets/5521a707-3a95-442d-9fe9-8e90bf6eec29" alt="GIF da primeira tela" width="300" />
 
+### Tela 2: Exibindo o Resultado
+<img src="https://github.com/user-attachments/assets/04c11cc8-807f-4298-9f3b-f2664a873d9c" alt="GIF da segunda tela" width="300" />
+
+### Tela 3: Historico de Resultados
+<img src="https://github.com/user-attachments/assets/8c146a3d-ba99-4845-a4f2-07f60d496c9b" alt="GIF da segunda tela" width="300" />
+
 ---
 
 ## :clipboard: Como Executar o Projeto
 
 1. Clone o repositório.
-2. Instale as dependências:
+2. navegar ate a pasta do back-end:
+    ```bash
+      cd back-end
+4. Instale as dependências:
    ```bash
-   npm install
-3. Execute o projeto:
-  ```bash
-  npm start
-```
-4. Abra no navegador pelo endereço http://localhost:3000.
+      npm install
+5. Criar a pasta .env
+6. Definir as Variaveis de ambiente que são pedidas
+7. Rode o servidor:
+   ```bash
+     npm run dev
+9. Abra no navegador pelo endereço http://localhost:3000.
+10. navegar até a pasta do front-end
+    ```bash
+      cd seuFuturoApp-main
+11. npm install
+12. npx expo start    
+    
 :rocket: Tecnologias Utilizadas
-Front-end: React Native
+Front-end: React Native (expo)
 Back-end: Node.js
 Integração: Google Gemini API
 Versionamento: Git e GitHub
