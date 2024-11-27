@@ -54,13 +54,18 @@
 ## :rocket: Tecnologias Utilizadas
 
 -**Front-end: React Native (expo)**
+
 -**Back-end: Node.js**
+
 -**Integração: Google Gemini API**
+
 -**Versionamento: Git e GitHub**
 
 ## :speech_balloon: Contato
 #Se tiver dúvidas ou sugestões, entre em contato:
 
 -**Email: andremice1@hotmail.com**
+
 -**GitHub: andreluisx**
+
 -**LinkedIn: andré-luís-777276298**
