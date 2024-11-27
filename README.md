@@ -44,8 +44,12 @@
     ```bash
       cd seuFuturoApp-main
     
-11. npm install
-13. npx expo start    
+11. instalar dependências
+     ```bash
+      npm install
+13. inicializar o servidor front-end
+     ```bash
+      npx expo start
     
 ## :rocket: Tecnologias Utilizadas
 
